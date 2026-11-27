@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="./assets/banner.png" width="100%" alt="Mohamed Israar AI Banner"/>
+</div>
+
+<br/>
+<div align="center">
   <img src="./assets/banner.png" alt="Mohamed Israar | AI, Machine Learning and Data Science" width="100%" />
 </div><h1 align="center">Hi, I'm Mohamed Israar 👋</h1><h3 align="center">AI & Machine Learning | Data Science | Software Development</h3><p align="center">
   <a href="https://www.linkedin.com/in/mohamed-israar/">
